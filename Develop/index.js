@@ -1,4 +1,11 @@
 // TODO: Include packages needed for this application
+console.log('Hello Node');
+const inquirer = require('inquirer');
+const fs = require('fs');
+const util = require('util');
+
+const generatePage = require('./utils/generateMarkdown');
+
 
 // TODO: Create an array of questions for user input
 const questions = [];
