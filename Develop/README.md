@@ -1,8 +1,8 @@
-# README generator
+# README-generator
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description 
-fbhfbah
+generate a readme from command line
 
 ## Table of Contents 
 * [Installation](#installation)
@@ -13,20 +13,20 @@ fbhfbah
 * [Contact Info for Questions](#contact-info-for-questions)
 
 ## Installation 
-ghf
+npm install and install node
 
 ## Usage Information 
-sgjs
+generate a readme more quickly and easily from command line
 
 ## Contribution Guidelines 
-sgnh
+----
 
 ## Test Instructions 
-sfjn
+----
 
 ## Contact Info for Questions 
-Github link: http://github.com/fsjn
-Email: fgns
+Github link: http://github.com/Serendipbrity
+Email: bcourt95@gmail.com
 
 ## License
 MIT
