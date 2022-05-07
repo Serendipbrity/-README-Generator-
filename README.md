@@ -1,5 +1,16 @@
-# -README-Generator-node_modules
+# README-Generator 
+Generate a professional readme.md from the command line
 
-## Professional README Generator Starter Code
+## Description
+Use prompts in command line to more quickly and easily generate a readme
 
-How to create a Professional README
+## Installation
+npm install and have node installed
+
+## Demo Video
+https://watch.screencastify.com/v/g9dAakELtn0nMCAUxwh0
+
+
+
+
+
